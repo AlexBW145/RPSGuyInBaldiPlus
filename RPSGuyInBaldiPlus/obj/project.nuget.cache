@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EHVXk177ZPlu3MiAtqAv6qRi3qxFGX+yICd27yU4NG1JP7RIBGqPqQCG+Ajaav+fLDRksOoVQqkyx/dktYiAbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alex1\\Downloads\\RPSGuyInBaldiPlus\\RPSGuyInBaldiPlus\\RPSGuyInBaldiPlus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alex1\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\alex1\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

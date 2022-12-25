@@ -1,0 +1,13 @@
+{"items":[
+
+{"key":"Itm_Hammer","value":"Hammer"},
+{"key":"Desc_Hammer","value":"Hammer\nThis Hammer is useful for breaking through windows, or destroying some rock guy.\nHe doesn't even like the sound of this.."},
+{"key":"PST_PRI_RPS1","value":"Rock Paper Scissors Guy"},
+{"key":"PST_PRI_RPS2","value":"Despite him being named like that,\nhe is still a kid and wants to play RPS with someone.."},
+{"key":"Vfx_RPS_where","value":"Where's that person, i just want to play rock paper scissors with them."},
+{"key":"Vfx_RPS_play","value":"Hey, wanna play rock paper scissors?"},
+{"key":"Vfx_RPS_herewego","value":"Here we go!"},
+{"key":"Vfx_RPS_lose","value":"Aw man! I lost again! I don't even want to talk about my losing streak, ever again."},
+{"key":"Vfx_RPS_ohteach1","value":"Oh teacher! Someone is trying to ruin my day again!"},
+{"key":"Vfx_RPS_ohteach2","value":"Hey teacher! I think someone just stole a binder behind me!"}
+ ]}

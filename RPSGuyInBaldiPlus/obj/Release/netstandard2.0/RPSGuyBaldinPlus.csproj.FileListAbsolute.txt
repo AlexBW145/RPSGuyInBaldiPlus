@@ -1,0 +1,7 @@
+C:\Users\alex1\Downloads\RPSGuyBaldinPlus\RPSGuyBaldinPlus\obj\Release\netstandard2.0\RPSGuyBaldinPlus.csproj.AssemblyReference.cache
+C:\Users\alex1\Downloads\RPSGuyBaldinPlus\RPSGuyBaldinPlus\obj\Release\netstandard2.0\RPSGuyBaldinPlus.Properties.Resources.resources
+C:\Users\alex1\Downloads\RPSGuyBaldinPlus\RPSGuyBaldinPlus\obj\Release\netstandard2.0\RPSGuyBaldinPlus.csproj.GenerateResource.cache
+C:\Users\alex1\Downloads\RPSGuyBaldinPlus\RPSGuyBaldinPlus\obj\Release\netstandard2.0\RPSGuyBaldinPlus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex1\Downloads\RPSGuyBaldinPlus\RPSGuyBaldinPlus\obj\Release\netstandard2.0\RPSGuyBaldinPlus.AssemblyInfoInputs.cache
+C:\Users\alex1\Downloads\RPSGuyBaldinPlus\RPSGuyBaldinPlus\obj\Release\netstandard2.0\RPSGuyBaldinPlus.AssemblyInfo.cs
+C:\Users\alex1\Downloads\RPSGuyBaldinPlus\RPSGuyBaldinPlus\obj\Release\netstandard2.0\RPSGuyBaldinPlus.csproj.CoreCompileInputs.cache
