@@ -1,3 +1,3 @@
 # RPSGuyInBaldiPlus
 A BepinEx Mod for Baldi Basics Plus
-### It includes the AssetBundle and .json Language Localization now.
+### This mod may be garbage or breaks the game unexpectely... Don't download it for v0.3.8
