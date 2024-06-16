@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Text;
 using UnityEngine;
@@ -6,6 +6,8 @@ using System.Collections;
 using System.Linq;
 using MTM101BaldAPI;
 using RPSGuyInBaldiPlus;
+using HarmonyLib;
+using System.Reflection;
 
 public class RPSGuy : NPC
 {
@@ -33,14 +35,14 @@ public class RPSGuy : NPC
             this.isDead = false;
         }
 
-        if (Resources.FindObjectsOfTypeAll<NPC>().ToList().Find(x => x.Character == Character.Principal) != null && !this.changedMat)
+        /*if (Resources.FindObjectsOfTypeAll<NPC>().ToList().Find(x => x.Character == Character.Principal) != null && !this.changedMat)
         {
             base.GetComponentInChildren<SpriteRenderer>().material = Resources.FindObjectsOfTypeAll<NPC>().ToList().Find(x => x.Character == Character.Principal).GetComponentInChildren<SpriteRenderer>().material;
             base.GetComponentInChildren<SpriteRenderer>().gameObject.AddComponent<Billboard>();
             this.changedMat = true;
-        }
+        }*/
     }
-    private bool changedMat = false;
+    //private bool changedMat = false;
 
     // Token: 0x060000AC RID: 172 RVA: 0x00006C01 File Offset: 0x00004E01
     public override void DestinationEmpty()
@@ -118,7 +120,8 @@ public class RPSGuy : NPC
         }
         else
         {
-            this.audMan.PlaySingle(this.audOops);
+            int num = UnityEngine.Random.Range(0, this.audOops.Length);
+            this.audMan.PlaySingle(this.audOops[num]);
         }
         if (!this.controlOverride)
         {
@@ -226,7 +229,7 @@ public class RPSGuy : NPC
 
     // Token: 0x04000166 RID: 358
 
-    public SoundObject audOops;
+    public SoundObject[] audOops = new SoundObject[2];
 
     // Token: 0x04000167 RID: 359
 
